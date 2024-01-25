@@ -6,7 +6,7 @@
   | |/ ___ \|  _ <| |_| | |\  |  ___) || |/ ___ \|  _ <| . \ 
   |_/_/   \_\_| \_\\___/|_| \_| |____/ |_/_/   \_\_| \_\_|\_\ 
    
-Social Media Hacking Tool By Tarun Stark
+[10 Milion Password Auto ] Social Media Hacking Tool By Tarun Stark
   </pre>
 </div>
 
