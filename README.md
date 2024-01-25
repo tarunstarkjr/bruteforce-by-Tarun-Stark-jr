@@ -30,14 +30,14 @@ The <b>bruteforce-by-Tarun-Stark-jr</b> on GitHub is for <i>educational purposes
 
 | tested on  | Yes | No  |
 | ---------- | :-: | :-: |
-| Ubuntu     |  X  |     |
-| Arch       |  X  |     |
-| Void       |  X  |     |
-| Debian     |  X  |     |
-| Kali       |  X  |     |
-| Windows 7  |     |  X  |
-| Windows 11 |  X  |     |
-| Termux     |  X  |     |
+| Ubuntu     | ✅  |     |
+| Arch       | ✅  |     |
+| Void       | ✅  |     |
+| Debian     | ✅  |     |
+| Kali       | ✅  |     |
+| Windows 7  |     | ✅  |
+| Windows 11 | ✅  |     |
+| Termux     | ✅  |     |
 
 </div>
 
@@ -282,12 +282,12 @@ you can verify that the program works by testing it on **your profile**, open th
 
 <div align="center">
 
-| active features | Bruteforce | Mass report | Phishing |
-| --------------- | :--------: | :---------: | :------: |
-| Instagram       |     X      |      X      |          |
-| Facebook        |     X      |             |          |
-| Gmail           |     X      |             |          |
-| Twitter         |     X      |      X      |          |
+| active features | Bruteforce   | Mass report | Phishing |
+| --------------- | :---------:  | :---------: | :------: |
+| Instagram       |     ✅      |     ✅      |          |
+| Facebook        |     ✅      |             |          |
+| Gmail           |     ✅      |             |          |
+| Twitter         |     ✅      |     ✅      |          |
 
 </div>
 
@@ -299,9 +299,7 @@ you can verify that the program works by testing it on **your profile**, open th
 
 <h3><p align="center">Issues and Suggestions</p></h3>
 
-<p align="center">
-  <img src="images/issues.gif" alt=""/>
-</p>
+
 
 <br>
 
